@@ -1,0 +1,21 @@
+{
+    "verification":"b455005e136ffc010c",
+      "info": {
+        "url_png_icon_64x64": "https://cardanoblade.github.io/bladepool/logo.png",
+        "url_png_logo": "https://cardanoblade.github.io/bladepool/cexplorer.png",
+        "location": "Cardano"
+        },
+        "company": {
+            "name": "BLADE",
+            "company_id": "BLADE"
+        },
+        "about": {
+            "me": "BLADE Pool",
+            "company": "BLADE Pool"
+        }
+    },
+    "my-pool-ids": {
+        "0": "pool16ajaae2n5lsyr4f9k9uz5y8tpf0996tw640dzu7chwp2wdrnz6a",
+        "1": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7"
+    }
+}
